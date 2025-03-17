@@ -82,7 +82,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: PhD Mathematics
+  - area: PhD in Mathematics
     institution: Sorbonne Université, Paris, France
     button:
       test: 'Thesis'
