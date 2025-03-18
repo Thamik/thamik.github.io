@@ -2,7 +2,7 @@
 title: Composably Secure Delegated Quantum Computation with Weak Coherent Pulses
 authors:
 - Maxime Garnier
-- Dominik Leichtle
+- admin
 - Luka Music
 - Harold Ollivier
 date: '2025-01-01'
