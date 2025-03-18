@@ -3,7 +3,7 @@ title: Heuristic-free Verification-inspired Quantum Benchmarking
 authors:
 - Johannes Frank
 - Elham Kashefi
-- Dominik Leichtle
+- admin
 - Michael de Oliveira
 date: '2024-01-01'
 publishDate: '2025-03-17T18:30:37.958071Z'

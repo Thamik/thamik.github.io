@@ -2,7 +2,7 @@
 title: Multi-client distributed blind quantum computation with the Qline architecture
 authors:
 - Beatrice Polacchi
-- Dominik Leichtle
+- admin
 - Leonardo Limongi
 - Gonzalo Carvacho
 - Giorgio Milani

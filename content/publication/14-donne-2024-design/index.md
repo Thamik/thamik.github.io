@@ -17,7 +17,7 @@ authors:
 - Julius Fischer
 - Benjamin van Ommen
 - Nicolas Demetriou
-- Dominik Leichtle
+- admin
 - Luka Music
 - Harold Ollivier
 - Ingmar te Raa

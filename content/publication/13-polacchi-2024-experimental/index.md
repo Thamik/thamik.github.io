@@ -2,7 +2,7 @@
 title: Experimental verifiable multi-client blind quantum computing on a Qline architecture
 authors:
 - Beatrice Polacchi
-- Dominik Leichtle
+- admin
 - Gonzalo Carvacho
 - Giorgio Milani
 - Nicolò Spagnolo

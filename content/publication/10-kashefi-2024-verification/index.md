@@ -2,7 +2,7 @@
 title: Verification of quantum computations without trusted preparations or measurements
 authors:
 - Elham Kashefi
-- Dominik Leichtle
+- admin
 - Luka Music
 - Harold Ollivier
 date: '2024-01-01'

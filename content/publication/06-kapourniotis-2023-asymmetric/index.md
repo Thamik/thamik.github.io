@@ -4,7 +4,7 @@ title: Asymmetric Quantum Secure Multi-Party Computation With Weak Clients Again
 authors:
 - Theodoros Kapourniotis
 - Elham Kashefi
-- Dominik Leichtle
+- admin
 - Luka Music
 - Harold Ollivier
 date: '2023-01-01'

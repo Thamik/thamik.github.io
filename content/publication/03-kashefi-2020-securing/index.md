@@ -2,7 +2,7 @@
 title: Securing quantum computations in the NISQ era
 authors:
 - Elham Kashefi
-- Dominik Leichtle
+- admin
 - Luka Music
 - Harold Ollivier
 date: '2020-01-01'

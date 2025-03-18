@@ -1,7 +1,7 @@
 ---
 title: Verifying BQP computations on noisy devices with minimal overhead
 authors:
-- Dominik Leichtle
+- admin
 - Luka Music
 - Elham Kashefi
 - Harold Ollivier

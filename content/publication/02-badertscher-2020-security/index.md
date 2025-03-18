@@ -5,7 +5,7 @@ authors:
 - Alexandru Cojocaru
 - Léo Colisson
 - Elham Kashefi
-- Dominik Leichtle
+- admin
 - Atul Mantri
 - Petros Wallden
 date: '2020-01-01'

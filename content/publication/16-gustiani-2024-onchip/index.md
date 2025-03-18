@@ -2,7 +2,7 @@
 title: On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit
 authors:
 - Cica Gustiani
-- Dominik Leichtle
+- admin
 - Daniel Mills
 - Jonathan Miller
 - Ross Grassie

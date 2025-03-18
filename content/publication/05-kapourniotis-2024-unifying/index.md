@@ -3,7 +3,7 @@ title: 'Unifying quantum verification and error-detection: theory and tools for 
 authors:
 - Theodoros Kapourniotis
 - Elham Kashefi
-- Dominik Leichtle
+- admin
 - Luka Music
 - Harold Ollivier
 date: '2024-01-01'

@@ -1,7 +1,7 @@
 ---
 title: Post-quantum signatures from identification schemes
 authors:
-- Dominik Leichtle
+- admin
 date: '2018-01-01'
 publishDate: '2025-03-17T18:30:37.883898Z'
 publication_types:

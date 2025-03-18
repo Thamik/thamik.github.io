@@ -6,7 +6,7 @@ authors:
 - D. Main
 - B. C. Nichol
 - E. M. Ainley
-- D. Leichtle
+- admin
 - A. Mantri
 - E. Kashefi
 - R. Srinivas
